@@ -33,7 +33,7 @@ A lightweight, interactive Streamlit application that scrapes any webpage, extra
 6. Structured results are returned in CSV format and available for download.
 
 ---
-
+gh
 ## 🛠️ Tech Stack
 
 - **Frontend/UI**: Streamlit
